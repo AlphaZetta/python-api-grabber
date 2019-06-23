@@ -6,9 +6,9 @@ Use the scratch API with python!
 1. Extract the repository
 
 ## Use
-2. Open ScratchStats.py
-2. Type in your username
-2. Be *amazed* of the stats
+1. Open ScratchStats.py
+1. Type in your username
+1. Be *amazed* of the stats
 
 ## Questions?
 Open an issue.
