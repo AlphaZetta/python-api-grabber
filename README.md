@@ -1,13 +1,13 @@
-# python-scratch-api
-Use the scratch API with python!
+# python-api-grabber
+Use various apis!
 
 ## Installation
 1. Download the repository
 1. Extract the repository
 
 ## Use
-1. Open ScratchStats.py
-1. Type in your username
+1. Open a python file
+1. Follow the instructions
 1. Be *amazed* of the stats
 
 ## Questions?
