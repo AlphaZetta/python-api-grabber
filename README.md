@@ -10,5 +10,8 @@ Use various apis!
 1. Follow the instructions
 1. Be *amazed* of the stats
 
+### API Grabber.py
+api(api-url)
+
 ## Questions?
 Open an issue.
