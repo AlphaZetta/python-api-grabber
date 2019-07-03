@@ -1,8 +1,10 @@
-import urllib.request
+import requests
 import json
-
-def api(url):
-    response = urllib.request.urlopen(url).read()
-    parsed = json.loads(response)
+while True:
+    print('Input an API URL')
+    url = input()
+    
+    response = requests.get(url)
+    parsed = response.json()
     
     print(json.dumps(parsed, indent=4))
