@@ -1,17 +1,16 @@
 # python-api-grabber
-Use various apis!
+Use python to get basic data from various APIs
+
+# STEPS FOR USE:
 
 ## Installation
-1. Download the repository
-1. Extract the repository
 
-## Use
-1. Open a python file
-1. Follow the instructions
-1. Be *amazed* of the stats
+1. Download and extract the files
+2. Open one
 
-### API Grabber.py
-api(api-url)
+### API Custom Function.py
 
-## Questions?
-Open an issue.
+The custom function you use here is
+```python
+api(url)
+```
